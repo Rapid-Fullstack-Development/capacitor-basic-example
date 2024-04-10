@@ -1,5 +1,3 @@
-import { SplashScreen } from "@capacitor/splash-screen";
-
 //
 // Replaces the text of a DOM element.
 //
@@ -11,8 +9,5 @@ function replaceText(selector, text) {
 }
 
 window.addEventListener('DOMContentLoaded', () => {
-
     replaceText('message', "Hello world!");
-
-    SplashScreen.hide();
 });
