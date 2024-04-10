@@ -1,11 +1,21 @@
-## Created with Capacitor Create App
+# capacitor-basic-example
 
-This app was created using [`@capacitor/create-app`](https://github.com/ionic-team/create-capacitor-app),
-and comes with a very minimal shell for building an app.
+A basic example of using Capacitor for a mobile application that accompanies the book [Rapid Fullstack Development](https://rapidfullstackdevelopment.com/).
 
-### Running this example
+This was created by following the [Electron quick start](https://www.electronjs.org/docs/latest/tutorial/quick-start) and then making some simplifications.
 
-To run the provided example, you can use `npm start` command.
+## Pre reqs
+
+You need [Node.js](https://nodejs.org] installed to run this.
+
+## Setup
+
+```bash
+cd capacitor-basic-example
+npm install
+```
+
+## Run it
 
 ```bash
 npm start
