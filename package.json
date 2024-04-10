@@ -8,6 +8,7 @@
     "start": "cd src && live-server"
   },
   "dependencies": {
+    "@capacitor/android": "^5.7.4",
     "@capacitor/core": "^5.7.4"
   },
   "devDependencies": {
