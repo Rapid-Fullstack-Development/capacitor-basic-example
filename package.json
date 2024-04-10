@@ -1,12 +1,9 @@
 {
-  "name": "capacitor-app",
+  "name": "capacitor-basic-example",
   "version": "1.0.0",
-  "description": "An Amazing Capacitor App",
+  "description": "A basic example of using Capacitor for a mobile application that accompanies the book Rapid Fullstack Development.",
   "main": "index.js",
-  "keywords": [
-    "capacitor",
-    "mobile"
-  ],
+  "keywords": [],
   "scripts": {
     "start": "vite",
     "build": "vite build",
@@ -19,6 +16,6 @@
     "@capacitor/cli": "^5.7.4",
     "vite": "^2.9.13"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "ashley@codecapers.com.au",
+  "license": "MIT"
 }
