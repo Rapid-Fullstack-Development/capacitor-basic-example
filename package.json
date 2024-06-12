@@ -5,7 +5,9 @@
   "main": "index.js",
   "keywords": [],
   "scripts": {
-    "start": "cd src && live-server"
+    "start": "cd src && live-server",
+    "android": "npx cap update && npx cap sync && npx cap open android",
+    "ios": "npx cap update && npx cap sync && npx cap open ios"
   },
   "dependencies": {
     "@capacitor/android": "^5.7.4",
